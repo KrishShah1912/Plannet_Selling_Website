@@ -1,4 +1,4 @@
-# Plannet_Selling_Website
+# Plannet-Selling-Website
 A visually immersive frontend for an interstellar marketplace where users can explore and “purchase” planets. Built with HTML, CSS, and JavaScript, this project blends elegant design with smooth animations to deliver a captivating user experience.
 
 # 🧠 Features
